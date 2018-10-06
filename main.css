@@ -1,0 +1,19 @@
+
+
+/*
+* image card
+*/
+.image-card {
+    height: 250px;
+    overflow: hidden;
+    /* border: red 1px solid; */
+}
+
+.image-holder {
+    text-align: center;
+    height: 85%;
+}
+
+.image-holder > img {
+    min-height: 100%;
+}
